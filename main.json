@@ -1,0 +1,56 @@
+{
+	"profile":{
+		"img":"eiffel-tower-paris-france-26.jpg",
+		"name":"Indu",
+		"roll":"16NN1A1206",
+		"institute":"vignan",
+		"place":"guntur"
+	},
+	"career":{
+		"info":"To know something new and enhance my skills in a dynamic and stable workplace"
+	},
+	"educational":[
+		{
+			"degree":"btech",
+			"institution":"vignan",
+			"yop":"2020"
+		},
+		{
+			"degree":"inter",
+			"institution":"sc",
+			"yop":"2016"
+	
+		},
+		{
+			"degree":"ssc",
+			"institution":"topkids",
+			"yop":"2014"
+		}
+	],
+	"languages":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindhi"
+		}
+	],
+
+	"skills":[
+		{
+			"title":"platforms",
+			"content":"windows,linux"
+		},
+		{
+			"title":"prog lang",
+			"content":"c,c++,py"
+		},
+		{
+			"title":"db",
+			"content":"mysql"
+		}
+	]
+}
